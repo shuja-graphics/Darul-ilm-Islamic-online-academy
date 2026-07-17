@@ -890,5 +890,5 @@ footer {
         max-width: 350px;
         justify-content: center;
     }
-}
+}Coloring csshttps://shuja-graphics.github.io/Darul-ilm-Islamic-academy-/
 
